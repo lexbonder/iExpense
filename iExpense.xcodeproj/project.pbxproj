@@ -43,7 +43,6 @@
 		8BA9D6C52A6EAD98007E9F5B = {
 			isa = PBXGroup;
 			children = (
-				8BC3B4EB2A72116E00FF2779 /* ExpenseList.swift */,
 				8BA9D6D02A6EAD98007E9F5B /* iExpense */,
 				8BA9D6CF2A6EAD98007E9F5B /* Products */,
 			);
@@ -60,6 +59,7 @@
 		8BA9D6D02A6EAD98007E9F5B /* iExpense */ = {
 			isa = PBXGroup;
 			children = (
+				8BC3B4EB2A72116E00FF2779 /* ExpenseList.swift */,
 				8BA9D6D12A6EAD98007E9F5B /* iExpenseApp.swift */,
 				8BA9D6D32A6EAD98007E9F5B /* ContentView.swift */,
 				8B3F7C732A705B7300CB906F /* AddView.swift */,
