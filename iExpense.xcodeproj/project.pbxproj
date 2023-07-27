@@ -14,6 +14,7 @@
 		8BA9D6D42A6EAD98007E9F5B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA9D6D32A6EAD98007E9F5B /* ContentView.swift */; };
 		8BA9D6D62A6EAD9B007E9F5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BA9D6D52A6EAD9B007E9F5B /* Assets.xcassets */; };
 		8BA9D6D92A6EAD9B007E9F5B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BA9D6D82A6EAD9B007E9F5B /* Preview Assets.xcassets */; };
+		8BC3B4EC2A72116E00FF2779 /* ExpenseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC3B4EB2A72116E00FF2779 /* ExpenseList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		8BA9D6D32A6EAD98007E9F5B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8BA9D6D52A6EAD9B007E9F5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BA9D6D82A6EAD9B007E9F5B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8BC3B4EB2A72116E00FF2779 /* ExpenseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		8BA9D6C52A6EAD98007E9F5B = {
 			isa = PBXGroup;
 			children = (
+				8BC3B4EB2A72116E00FF2779 /* ExpenseList.swift */,
 				8BA9D6D02A6EAD98007E9F5B /* iExpense */,
 				8BA9D6CF2A6EAD98007E9F5B /* Products */,
 			);
@@ -150,6 +153,7 @@
 				8BA9D6D42A6EAD98007E9F5B /* ContentView.swift in Sources */,
 				8B3F7C742A705B7300CB906F /* AddView.swift in Sources */,
 				8B46B95E2A700023000BD822 /* ExpenseItem.swift in Sources */,
+				8BC3B4EC2A72116E00FF2779 /* ExpenseList.swift in Sources */,
 				8BA9D6D22A6EAD98007E9F5B /* iExpenseApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
